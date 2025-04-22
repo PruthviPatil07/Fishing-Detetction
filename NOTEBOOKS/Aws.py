@@ -5,7 +5,7 @@ import joblib
 app = Flask(__name__)
 
 # Load trained model
-model = joblib.load(r"C:\Users\Dell\Downloads\DEPLOYMENT\NOTEBOOKS\model.pkl")
+model = joblib.load(r"C:\Users\PRUTHVIRAJ\OneDrive\Desktop\DEPLOYMENT\NOTEBOOKS\model.pkl")
 
 # Homepage route
 @app.route("/")

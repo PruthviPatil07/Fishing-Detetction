@@ -1,0 +1,6 @@
+.venv/
+DATA/
+MODEL/
+NOTEBOOKS\app\model.pkl
+NOTEBOOKS\explainer.pkl
+NOTEBOOKS\model.pkl
