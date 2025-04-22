@@ -45,7 +45,7 @@ Fishing-Detetction/
 ├── README.md
 └── requirements.txt
 ```
-
+
 
 - **NOTEBOOKS/**: Contains Jupyter notebooks for data preprocessing, model training, and evaluation.
 - **data/**: Includes raw and processed datasets used in the project.
