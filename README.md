@@ -61,7 +61,6 @@ Fishing-Detetction/
    git clone https://github.com/PruthviPatil07/Fishing-Detetction.git
    cd Fishing-Detetction
    ```
-
 
 2. **Create a virtual environment (optional but recommended):**
 
@@ -69,14 +68,12 @@ Fishing-Detetction/
    python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-
 
 3. **Install the required packages:**
 
    ```bash
    pip install -r requirements.txt
    ```
-
 
 ## Usage
 
